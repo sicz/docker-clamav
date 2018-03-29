@@ -1,6 +1,6 @@
 # docker-clamav
 
-[![CircleCI Status Badge](https://circleci.com/gh/sicz/docker-clamav.svg?style=shield&circle-token=)](https://circleci.com/gh/sicz/docker-clamav)
+[![CircleCI Status Badge](https://circleci.com/gh/sicz/docker-clamav.svg?style=shield&circle-token=d32e28010e795e227e67022da2067733c7fad777)](https://circleci.com/gh/sicz/docker-clamav)
 
 **This project is not aimed at public consumption.
 It exists to serve as a single endpoint for SICZ containers.**
