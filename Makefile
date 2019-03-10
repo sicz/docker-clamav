@@ -1,11 +1,11 @@
 ### BASE_IMAGE #################################################################
 
 BASE_IMAGE_NAME		?= $(DOCKER_PROJECT)/baseimage-alpine
-BASE_IMAGE_TAG		?= 3.7
+BASE_IMAGE_TAG		?= 3.9
 
 ### DOCKER_IMAGE ###############################################################
 
-CLAMAV_VERSION		?= 0.99.2
+CLAMAV_VERSION		?= 0.100.2
 
 DOCKER_PROJECT		?= sicz
 DOCKER_PROJECT_DESC	?= Antivirus engine for detecting malicious threats
